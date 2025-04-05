@@ -1,0 +1,11 @@
+{
+    "model_name": "linear_regression",
+    "model_type": "LinearRegression",
+    "parameters": {
+        "copy_X": true,
+        "fit_intercept": true,
+        "n_jobs": null,
+        "positive": true
+    },
+    "timestamp": "2025-04-03T22:50:46.338656"
+}
